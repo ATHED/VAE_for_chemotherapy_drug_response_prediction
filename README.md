@@ -11,3 +11,5 @@ conda env create -f tensorflow-gpu-environment-stable.yml
 ```
 
 You need to install Cuda, and Cudnn on you workstation first.
+
+![Image of our VAE model](https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/blob/master/images/m1_pipeline_plot_modified.png)
