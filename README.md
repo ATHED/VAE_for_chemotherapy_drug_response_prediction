@@ -7,14 +7,14 @@ A preprint based on this research will be released soon.
 You can create the virtual environment contains all necessory packages from the enviroment file provided, and with code:
 ```
 conda env create -f tensorflow-gpu-environment-stable.yml
-
 ```
 
-You need to install Cuda, and Cudnn on you workstation first.
+Notice: You need to install Cuda, and Cudnn on you workstation first.
 
 ## Training Dataset
-* Dataset link:
-* Clinical record link:
+* Dataset link:https://xenabrowser.net/datapages/
+* Clinical record link:https://xenabrowser.net/datapages/
+                       https://www.cbioportal.org/datasets
 
 ## Code Structure
 * VAE training code: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/VAE_models
