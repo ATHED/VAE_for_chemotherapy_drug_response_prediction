@@ -34,6 +34,6 @@ Input layer with top 20 most variably expressed genes (size *m*), configurable m
 ## Comparison of AUROC results on five different types of cancer
 ![Image of AUROC results](https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/blob/master/images/(95ConfidenceInterval)fig_top20_vae_ref_replications(5_cancers%252C%2520preprint).png)
 
-<img src="https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/blob/master/images/(95ConfidenceInterval)fig_top20_vae_ref_replications(5_cancers%252C%2520preprint).png" width="800">
+<img src="https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/blob/master/images/(95ConfidenceInterval)fig_top20_vae_ref_replications(5_cancers%252C%2520preprint).png" align = "center" width="700">
 
 Comparison of AUROC results on five different types of cancer, Top 20% variance genes vs. PCA compressed features vs. VAE compressed features (colors indicate different data sets, square indicates mean AUROC value, bars indicate 95% confidence interval)
