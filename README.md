@@ -12,6 +12,18 @@ conda env create -f tensorflow-gpu-environment-stable.yml
 
 You need to install Cuda, and Cudnn on you workstation first.
 
+## Training Dataset
+* Dataset link:
+* Clinical record link:
+
+## Code Structure
+* VAE training code: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/VAE_models
+* R script for adding chemotherapy treatment response labels: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/R_scripts_for_adding_labels
+* Classification task codes for VAE, PCA, and original dimension data: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/Benchmark_codes_xgboost
+* Plotting scripts for results: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/R_scripts_for_plotting
+
+Notebook version of codes: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/Notebooks
+
 ## Diagrammatic representation of the VAE-XGBoost method that we used for predicting tumor response.
 ![Image of our VAE model](https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/blob/master/images/m1_pipeline_plot_modified.png)
 
