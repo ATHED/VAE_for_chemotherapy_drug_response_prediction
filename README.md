@@ -9,7 +9,7 @@ You can create the virtual environment contains all necessory packages from the 
 conda env create -f tensorflow-gpu-environment-stable.yml
 ```
 
-Notice: You need to install Cuda, and Cudnn on you workstation first.
+Notice: You need to install Cuda, and Cudnn on you workstation first. You may find instructions here: https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
 
 ## Training Dataset
 * Dataset link:https://xenabrowser.net/datapages/
