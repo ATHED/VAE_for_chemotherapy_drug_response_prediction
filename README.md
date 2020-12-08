@@ -2,9 +2,9 @@
 
 Code repository accompanying the bioRxiv preprint *VAE for chemotherapy drug response prediction* by Qi Wei and Stephen A. Ramsey (bioRxiv: "id")[https://]
 
-The idea is using a variational auto-encoder to extract lower dimension abstract data from gene expression data. Then applying those lower dimension abstract data to predict chemotherapy response on various type of cancers using xgboost classifier.
+## Introduction & Installation
 
-A preprint based on this research will be released soon. Here is the link:
+The idea is using a variational auto-encoder to extract lower dimension abstract data from gene expression data. Then applying those lower dimension abstract data to predict chemotherapy response on various type of cancers using xgboost classifier.
 
 You can create the virtual environment contains all necessory packages from the enviroment file provided, and with code:
 ```
