@@ -17,6 +17,7 @@ Notice: You need to install Cuda, and Cudnn on you workstation first. You may fi
                        https://www.cbioportal.org/datasets
 * Five cancer types: colon adenocarcinomas (COAD),
 pancreatic adenocarcinoma (PAAD), bladder carcinoma (BLCA), sarcoma (SARC), and breast invasive carcinoma (BRCA), selected based on availability of a sufficient amount of labeled data in TCGA
+* Binary labels for chemotherapy response constructed from the combined clinical record: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/binary_labels 
 
 ## Code Structure
 * VAE training code: https://github.com/ATHED/VAE_for_chemotherapy_drug_response_prediction/tree/master/VAE_models
