@@ -1,6 +1,6 @@
 # VAE for chemotherapy drug response prediction
 
-Code repository accompanying the bioRxiv preprint *VAE for chemotherapy drug response prediction* by Qi Wei and Stephen A. Ramsey (bioRxiv: "id")[https://] at Oregon State University.
+Code repository accompanying the bioRxiv preprint *"Predicting chemotherapy response using a variational autoencoder approach"* by Qi Wei and Stephen A. Ramsey (bioRxiv: "id")[https://doi.org/10.1101/2021.01.04.425288] at Oregon State University.
 
 ## Introduction & Installation
 
