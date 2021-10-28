@@ -1,8 +1,22 @@
 # VAE for chemotherapy drug response prediction
 
-Code repository accompanying the published paper *"Predicting chemotherapy response using a variational autoencoder approach"* by Qi Wei and Stephen A. Ramsey BMC Bioinformatics (2021) 22:453.
+Code repository accompanying the published paper *"Predicting chemotherapy response using a variational autoencoder approach"* by Qi Wei and Stephen A. Ramsey *BMC Bioinformatics (2021) 22:453*.
 
 You can find full text of my paper on this link: https://doi.org/10.1186/s12859-021-04339-6
+
+Your can cite my paper using the following bibtex citation:
+```
+@article{article,
+author = {Wei, Qi and Ramsey, Stephen},
+year = {2021},
+month = {09},
+pages = {},
+title = {Predicting chemotherapy response using a variational autoencoder approach},
+volume = {22},
+journal = {BMC Bioinformatics},
+doi = {10.1186/s12859-021-04339-6}
+}
+```
 
 ## Introduction & Installation
 
