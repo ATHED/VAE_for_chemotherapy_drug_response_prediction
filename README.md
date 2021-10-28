@@ -10,7 +10,7 @@ Your can cite my paper using the following bibtex citation:
 author = {Wei, Qi and Ramsey, Stephen},
 year = {2021},
 month = {09},
-pages = {},
+pages = {453},
 title = {Predicting chemotherapy response using a variational autoencoder approach},
 volume = {22},
 journal = {BMC Bioinformatics},
